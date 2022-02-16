@@ -1,7 +1,7 @@
 {
   "scripts": {
-    "start": "node api.js",
-    "dev": "nodemon api.js"
+    "start": "node app.js",
+    "dev": "nodemon app.js"
   },
   "dependencies": {
     "axios": "^0.21.2",
